@@ -1,0 +1,69 @@
+
+body {
+    
+    background-color: cornflowerblue;
+    color: whitesmoke;
+    font-family: 'Open Sans Condensed', sans-serif;
+  
+}
+
+h1 { 
+    font-size: 30px;
+    color:orange;
+    background-color: blue;
+    text-shadow: 7px 7px black;
+    letter-spacing: 25px;
+    font-size: 35px;
+    text-align: center;
+}
+
+h2 {
+    color: coral;
+    background-color:lightblue;
+    text-align: center;
+    font-size: 30px;
+    width: 100%;
+}
+
+
+p {
+    text-align: justify;
+    text-indent: 50px;
+    font-size: 25px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#first {
+    color:blue;
+    background-color: orange;
+}
+.uppercase-text {
+    text-transform: uppercase;
+
+}
+
+.lowercase-text {
+    text-transform: lowercase;
+}
+
+.capitalize-text {
+    text-transform: capitalize;
+}
+
+.small-ws {
+    word-spacing: -2px;
+}
+
+.big-ws {
+    word-spacing: 5px;
+}
+
+.small-space {
+    line-height: 0.8;
+}
+
+.big-space {
+    line-height: 2;
+}
